@@ -8,33 +8,33 @@ An interactive **R Shiny–based analytics dashboard** that enables users to upl
 
 *  **Data Upload & Preview**
 
-  * Upload CSV files
-  * Custom delimiter & quote options
-  * Adjustable row preview
+    * Upload CSV files
+    * Custom delimiter & quote options
+    * Adjustable row preview
 
 *  **Interactive Visualizations**
 
-  * Scatter plots, histograms, and distributions
-  * Dynamic X/Y variable selection
-  * Color mapping & themes
+    * Scatter plots, histograms, and distributions
+    * Dynamic X/Y variable selection
+    * Color mapping & themes
 
 *  **Analytics**
 
-  * Summary statistics
-  * Correlation matrix heatmap
-  * Data distribution analysis
+    * Summary statistics
+    * Correlation matrix heatmap
+    * Data distribution analysis
 
 *  **Live Stock Data**
 
-  * Real-time stock price visualization
-  * Multiple stock symbol selection
-  * Time-interval based analysis
+    * Real-time stock price visualization
+    * Multiple stock symbol selection
+    * Time-interval based analysis
 
 *  **Export Options**
 
-  * Download processed data as CSV
-  * Export plots (PNG format)
-  * Custom plot width & height
+    * Download processed data as CSV
+    * Export plots (PNG format)
+    * Custom plot width & height
 
 ---
 
